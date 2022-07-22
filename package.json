@@ -1,0 +1,15 @@
+{
+  "name": "webinar22_07_22_correction",
+  "version": "1.0.0",
+  "description": "Révision Webinar NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Chris Webinar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
